@@ -1,4 +1,4 @@
-# WASHI
+# WASHI(Wafer-line Analysis Simulation)
 
 ## 概要/目的
 本ツールは, 半導体製造における装置汎用化の効果をシミュレーションするために開発されています.
@@ -39,5 +39,4 @@
 - [機能仕様書](docs/specifications.md) - システムの機能詳細
 - [ユーザーマニュアル](docs/user-manual.md) - エンドユーザー向けの使用方法
 
-# WASHI
 
